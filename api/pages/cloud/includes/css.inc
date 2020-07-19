@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo APP_HOST ?>/assets/lib/datatables/datatables.css">

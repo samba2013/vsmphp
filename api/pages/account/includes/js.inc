@@ -1,0 +1,1 @@
+<script src="<?php echo APP_HOST ?>/assets/lib/pages/account/Account.min.js" type="application/javascript" ></script>
